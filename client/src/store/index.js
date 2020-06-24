@@ -18,7 +18,7 @@ const state = {
   hasError: false,
   languageOptions: [],
   selectedLanguages: [],
-  loading: false,
+  loading: true,
 };
 
 export default new Vuex.Store({
